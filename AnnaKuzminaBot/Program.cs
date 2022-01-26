@@ -34,7 +34,7 @@ namespace AnnaKuzminaBot
 
         static void Main(string[] args)
         {
-                string token = "2103591279:AAG7D6TugIBsnw_UuUHi0xLFZNDVpIYq7To";
+                string token = "";
 
                 Bot = new TelegramBotClient(token);
 
